@@ -1,6 +1,5 @@
 ;
 import { UserButton } from "@clerk/nextjs";
-import { Menu } from "lucide-react";
 import MobileSidebar from "./mobile-sidebar";
 
 const Navbar = () => {
